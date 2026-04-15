@@ -1,2 +1,3 @@
 # practice-python
-Swap the two integers with each other
+I am learning C and Python.
+This repo contains my practice programs.
